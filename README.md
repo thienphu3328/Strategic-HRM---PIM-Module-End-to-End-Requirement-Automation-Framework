@@ -1,10 +1,10 @@
-Project: Strategic HRM - PIM Module: End-to-End Requirement & Automation Framework
+**Project: Strategic HRM - PIM Module: End-to-End Requirement & Automation Framework**
 
-Role: BA/QA (Hybrid Role)
+**Role: BA/QA (Hybrid Role)**
 
-Tool: Python, Playwright, SQL, Draw.io (Flowchart), BDD (Gherkin).
+**Tool: Python, Playwright, SQL, Draw.io (Flowchart), BDD (Gherkin)**
 
-Content:
+**Content:**
 
     Business Analysis (BA):
 
